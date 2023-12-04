@@ -1,0 +1,2 @@
+// Compiler: 14.38.33130
+#include "C:/Users/Delaina/Documents/Unreal Projects/Fall2023_Traject_v2/Intermediate/Build/Win64/Fall2023_Traject_v1Editor/Development/Engine/SharedPCH.Engine.ShadowErrors.h"
